@@ -14,4 +14,4 @@ Because this method uses several layers of different noise, where each layer con
 ### Future work
 I propose to implement the color generation for the planet. Several rules can be applied, for instance, the peak of mountains probably will be white because of snow or black if there is no atmosphere on the planet and so on. Also, significant improvement is to imple- ment an atmosphere like gloving, that is used in the Spore game, to give the planet more alive-look.
 ### References
-[1] https://www.youtube.com/user/Cercopithecan 
+[1] https://www.youtube.com/user/Cercopithecan   
