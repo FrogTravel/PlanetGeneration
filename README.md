@@ -9,9 +9,12 @@ To make planets even more exciting and more nature- like, I combined several noi
 
 The planet’s look is tuned with a lot of parameters. The strength is responsible for the height of noise. The larger the strength - the higher the mountain will be gen- erated. Roughness is capable of how wavy that level of noise will be. The bigger that value, the more bubbly the planet becomes (or sharp in case of more advanced noise). Min value is the sea level of the planet. The ”center” allows moving the layer around the planet. All those parameters are available per each layer. The com-
 bination of several layers gives impeccable results. To color the planet, I implemented a shader, that color the surface based on the height of the point. The color now is set manually.
+
 ### Evaluation
 Because this method uses several layers of different noise, where each layer consist of several inner noise layers the results are very different planets
+
 ### Future work
 I propose to implement the color generation for the planet. Several rules can be applied, for instance, the peak of mountains probably will be white because of snow or black if there is no atmosphere on the planet and so on. Also, significant improvement is to imple- ment an atmosphere like gloving, that is used in the Spore game, to give the planet more alive-look.
+
 ### References
 [1] https://www.youtube.com/user/Cercopithecan   
